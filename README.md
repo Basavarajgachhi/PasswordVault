@@ -26,7 +26,7 @@ Menu Driven – Easy to navigate with options to Register, Login, and Exit.
  ## How to Run
 1. Clone this repository:
    bash
-  git clone https://github.com/YOUR-USERNAME/PasswordVault.git
+  git clone https://github.com/Basavarajgachhi/PasswordVault
 2. Open terminal and go to the project folder.
 
 3. Compile the program:
